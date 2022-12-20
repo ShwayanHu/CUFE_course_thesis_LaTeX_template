@@ -13,7 +13,7 @@
 ## 关于产权
 
 本模版改编自：DoniaHakurei在GitHub的仓库中上传的模版（[传送门](https://github.com/DoniaHakurei/CUFE_thesis_LaTeX_template)）。原模版在某些地方，如封面的字体等不符合教务处最新要求，因此本人进行了相应修改。
-同时，本模版已经上传在本人的个人GitHub仓库和OverLeaf公开模版（Overleaf Gallery）中。
+同时，本模版已经上传在本人的个人GitHub仓库和OverLeaf公开模版（Overleaf Gallery）中，[Overleaf模版在这儿](https://www.overleaf.com/latex/templates/central-university-of-finance-and-economics-cufe-course-report-latex-template/zjsmnqbwgmyg)。
 
 请尊重作者产权。
 
